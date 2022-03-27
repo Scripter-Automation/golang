@@ -1,3 +1,1 @@
 # golang
-
-Paco es puto
